@@ -19,7 +19,8 @@ Front-End
 🚀 Next.js: Optimizing for performance and SEO
 
 💻 JavaScript/TypeScript: Writing scalable code
-https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%23.png
+![c#](https://github.com/user-attachments/assets/0eff57af-369b-445f-abf2-a81c5f56dd10)
+
 
 
 Tools & Platforms
