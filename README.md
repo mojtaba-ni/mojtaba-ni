@@ -19,8 +19,9 @@ Front-End
 🚀 Next.js: Optimizing for performance and SEO
 
 💻 JavaScript/TypeScript: Writing scalable code
-![c#](![image](https://github.com/user-attachments/assets/3b60e422-aeca-4dfb-869d-ba643342f9de)
-)
+![image](https://github.com/user-attachments/assets/b1ae5336-ee2b-44a4-98a2-2abf649179a3)
+
+
 
 
 
