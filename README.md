@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm Mojtaba!
+I'm a dedicated Software Developer with 6 years of experience crafting innovative web applications. I specialize in building dynamic front-end experiences with React and Next.js,
+ and robust back-end systems with Express.js and .NET. I thrive on turning complex challenges into elegant solutions!
 
-<!--
-**mojtaba-ni/mojtaba-ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎉 Welcome to My GitHub!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Note: Replace the above URL with your banner image URL or upload your image (e.g., banner.png) to this repo and update the path.
+
+🛠️ Tech Stack
+Front-End
+React: Crafting interactive UIs
+Next.js: Optimizing for performance and SEO
+JavaScript/TypeScript: Writing scalable code
+HTML5, CSS3, Tailwind CSS: Styling with precision
+
+Back-End
+Express.js: Building RESTful APIs
+.NET: Creating secure server-side logic
+Node.js: Powering event-driven systems
+Databases: MongoDB, SQL Server, PostgreSQL
+Tools & Platforms
+
+Git, GitHub: Collaboration and version control
+Docker: Containerized deployments
+CI/CD: Jenkins, GitHub Actions
+Cloud: AWS, Azure
