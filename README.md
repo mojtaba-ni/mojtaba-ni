@@ -1,8 +1,6 @@
 👋 Hi, I'm Mojtaba!
 
-I'm a dedicated Software Developer with 6 years of experience crafting innovative web applications.
-I specialize in building dynamic front-end experiences with React and Next.js,
-and robust back-end systems with Express.js and .NET.
-I thrive on turning complex challenges into elegant solutions!
-
+I'm a committed Software Developer with 6 years of experience whipping up creative web apps.
+I'm all about crafting lively, user-friendly front-end experiences with React and Next.js, and building solid back-end systems with Express.js and .NET.
+I get a kick out of tackling tough challenges and turning them into slick, effective solutions!
 🎉 Welcome to My GitHub!
