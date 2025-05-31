@@ -11,28 +11,30 @@ Note: Replace the above URL with your banner image URL or upload your image (e.g
 🛠️ Tech Stack
 Front-End
 
-React: Crafting interactive UIs
+🛠️ Tech Stack
+Front-End
 
-Next.js: Optimizing for performance and SEO
+🌐 React: Crafting interactive UIs
 
-JavaScript/TypeScript: Writing scalable code
+🚀 Next.js: Optimizing for performance and SEO
 
+💻 JavaScript/TypeScript: Writing scalable code
 
 Back-End
 
-Express.js: Building RESTful APIs
+🔗 Express.js: Building RESTful APIs
 
-.NET: Creating secure server-side logic
+🛡️ .NET: Creating secure server-side logic
 
-Node.js: Powering event-driven systems
+⚡ Node.js: Powering event-driven systems
 
-Databases: MongoDB, SQL Server, PostgreSQL
+🗃️ Databases: MongoDB, SQL Server, PostgreSQL
+
 Tools & Platforms
 
-Git, GitHub
-Collaboration and version control
+📦 Git, GitHub: Collaboration and version control
 
-Docker: Containerized deployments
+🐳 Docker: Containerized deployments
 
-CI/CD: Jenkins, GitHub Actions
+🔄 CI/CD: Jenkins, GitHub Actions
 
