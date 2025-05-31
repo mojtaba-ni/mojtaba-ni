@@ -19,16 +19,8 @@ Front-End
 🚀 Next.js: Optimizing for performance and SEO
 
 💻 JavaScript/TypeScript: Writing scalable code
+https://github.com/marwin1991/profile-technology-icons/blob/main/icons/c%23.png
 
-Back-End
-
-🔗 Express.js: Building RESTful APIs
-
-🛡️ .NET: Creating secure server-side logic
-
-⚡ Node.js: Powering event-driven systems
-
-🗃️ Databases: MongoDB, SQL Server, PostgreSQL
 
 Tools & Platforms
 
