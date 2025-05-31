@@ -10,19 +10,29 @@ Note: Replace the above URL with your banner image URL or upload your image (e.g
 
 🛠️ Tech Stack
 Front-End
+
 React: Crafting interactive UIs
+
 Next.js: Optimizing for performance and SEO
+
 JavaScript/TypeScript: Writing scalable code
-HTML5, CSS3, Tailwind CSS: Styling with precision
+
 
 Back-End
+
 Express.js: Building RESTful APIs
+
 .NET: Creating secure server-side logic
+
 Node.js: Powering event-driven systems
+
 Databases: MongoDB, SQL Server, PostgreSQL
 Tools & Platforms
 
-Git, GitHub: Collaboration and version control
+Git, GitHub
+Collaboration and version control
+
 Docker: Containerized deployments
+
 CI/CD: Jenkins, GitHub Actions
-Cloud: AWS, Azure
+
